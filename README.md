@@ -1,9 +1,5 @@
 # haar_pytorch: Pytorch implementation of forward and inverse Haar Wavelets 2D
 
-[![Downloads](https://pepy.tech/badge/haar_pytorch)](https://pepy.tech/project/haar_pytorch)
-[![Downloads](https://pepy.tech/badge/haar_pytorch/month)](https://pepy.tech/project/haar_pytorch)
-[![Downloads](https://pepy.tech/badge/haar_pytorch/week)](https://pepy.tech/project/haar_pytorch)
-
 A simple library that implements differentiable forward and inverse Haar Wavelets.
 
 <p align="center">
