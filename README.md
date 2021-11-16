@@ -6,6 +6,12 @@ A simple library that implements differentiable forward and inverse Haar Wavelet
   <img src="resources/haar.png"/>
 </p>
 
+## Install package
+
+```bash
+pip install haar_pytorch
+```
+
 ## Install the latest version
 
 ```bash
